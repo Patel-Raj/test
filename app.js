@@ -1,1 +1,1 @@
-First app
+console.log
